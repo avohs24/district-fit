@@ -2,3 +2,22 @@
   border-bottom: solid white 2px;
   text-align: center;
 }
+
+form {
+    display: inline-block;
+    text-align: center;
+    width: 65%;
+}
+
+#name{
+  margin-bottom: 1%;
+}
+#email{
+  margin-bottom: 1%;
+}
+#message{
+  margin-bottom: 1%;
+}
+.button{
+
+}
