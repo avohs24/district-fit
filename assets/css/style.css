@@ -8,7 +8,9 @@ form {
     text-align: center;
     width: 65%;
 }
-
+#contact{
+  border-bottom: solid white 2px;
+}
 #name{
   margin-bottom: 1%;
 }

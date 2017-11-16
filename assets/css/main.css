@@ -3401,9 +3401,9 @@
 				width: 18em;
 			}
 
-				#banner .content .image img {
+			#banner .content .image img {
 					border-radius: 100%;
-					display: block;
+					display: inline-block;
 					width: 100%;
 				}
 
